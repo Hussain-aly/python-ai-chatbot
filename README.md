@@ -32,14 +32,5 @@ Run the chatbot:
 
 python python-ai-chatbot.py
 
-Future Enhancements (Optional)
-Expand the knowledge base with more conversational topics and responses.
-
-Implement more advanced pattern matching (e.g., using regular expressions).
-
-Integrate with external APIs for fetching real-time information (e.g., weather, news).
-
-Add sentiment analysis to understand the user's mood.
-
 My Role
 This chatbot was developed independently as a solo project.
